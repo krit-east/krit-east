@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm krit</h1>
 <h3 align="center">A passionate full-stack developer from thailand</h3>
 <p align="center">
-    <img width="400" src="https://cdn.discordapp.com/attachments/1143154814805614613/1164941831381979197/IMG_7232.jpg?ex=65450ba0&is=653296a0&hm=5891da65770b23e18607aead316223493b6a37646829f050ff3a60e255a87d15" alt="coding" style="border-radius: 50%;">
+    <img  width="400" src="https://cdn.discordapp.com/attachments/1143154814805614613/1164941831381979197/IMG_7232.jpg?ex=65450ba0&is=653296a0&hm=5891da65770b23e18607aead316223493b6a37646829f050ff3a60e255a87d15" alt="coding" >
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krit-it-easy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="krit-it-easy-dev" /> </p>
@@ -58,10 +58,8 @@
             height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krit-it-easy-dev&show_icons=true&locale=en&layout=compact" alt="krit-it-easy-dev" />
+<p align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krit-it-easy-dev&layout=compact&theme=tokyonight" alt="krit-it-easy-dev" />
 </p>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krit-it-easy-dev&" alt="krit-it-easy-dev" />
-</p>
+
