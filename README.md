@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full-stack developer from thailand</h3>
 <p align="center">
-    <img  width="400" src="https://cdn.discordapp.com/attachments/1143154814805614613/1164941831381979197/IMG_7232.jpg?ex=65450ba0&is=653296a0&hm=5891da65770b23e18607aead316223493b6a37646829f050ff3a60e255a87d15" alt="coding" >
+    <img  width="400" src="https://cdn.discordapp.com/attachments/1198343543106850886/1214826150283452416/krit.jpg?ex=65fa8604&is=65e81104&hm=19a7c12b959897c5460b62e9d5111167f02d3a2c21c860b8b9f594ddde1119fb&" alt="coding" >
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krit-it-easy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="krit-it-easy-dev" /> </p>
