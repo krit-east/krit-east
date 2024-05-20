@@ -2,8 +2,8 @@
 
 <h3 align="center">A passionate full-stack developer from thailand</h3>
 <p align="center">
-![krit](https://github.com/Krit-it-easy-dev/Krit-it-easy-dev/assets/116418772/48e6818c-df4b-424f-ac70-50793927d393)
-
+    <img src="https://github.com/Krit-it-easy-dev/Krit-it-easy-dev/assets/116418772/48e6818c-df4b-424f-ac70-50793927d393"
+            alt="react" width="40" height="40" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krit-it-easy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="krit-it-easy-dev" /> </p>
