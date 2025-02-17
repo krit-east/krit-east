@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krit-east&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.demolab.com?user=krit-east&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
