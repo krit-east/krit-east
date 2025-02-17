@@ -47,5 +47,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=krit-east&color=blue" alt="Profile Views" />
 </div>
