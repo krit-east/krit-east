@@ -1,4 +1,4 @@
-; KRIT.ASM - Personal Profile
+; KRIT
 ; -------------------------------
 
 .data
