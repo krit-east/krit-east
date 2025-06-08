@@ -13,9 +13,10 @@ main proc
     mov     ds, ax
     
     ; Display Skills
-    call    LoadFrontendSkills     ; React, Next.js, TypeScript, Tailwind
-    call    LoadBackendSkills      ; Node.js, Express, MongoDB
-    
+    call    LoadFrontendSkills         ; React, Next.js, TypeScript, Tailwind, Html, CSS, Vue, Nuxt.js
+    call    LoadBackendSkills          ; Node.js, Express, MongoDB, Prisma, ElysiaJS, C#, C++
+    call    LoadReverseEngineeringSkills ; IDA Pro, x64dbg, Unity Netcode
+
     ; Current Status
     push    project
     call    WorkingOn
@@ -31,5 +32,11 @@ GitHub      proc
     ; https://github.com/krit-east
     ret
 GitHub      endp
+
+; Skill Subroutines
+LoadReverseEngineeringSkills proc
+    ; Expertise: Ghidra, IDA Pro, x64dbg, reversing Unity Netcode (Entities, Huffman, Quantization)
+    ret
+LoadReverseEngineeringSkills endp
 
 end main
